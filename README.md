@@ -11,3 +11,6 @@ URLPusher is being hosted on [urlpusher.000webhostapp.com](https://urlpusher.000
 
 ## Code
 ![image](https://user-images.githubusercontent.com/81752891/177009406-1d34a41f-449f-45a1-9d34-e32781d0ee34.png)
+
+## Reciever
+![image](https://user-images.githubusercontent.com/81752891/178418979-ede4fdf9-e77a-4e33-94dc-9c303c8dae8c.png)
